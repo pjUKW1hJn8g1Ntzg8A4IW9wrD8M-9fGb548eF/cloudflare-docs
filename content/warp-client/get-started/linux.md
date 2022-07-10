@@ -68,8 +68,6 @@ A complete list of all supported commands can be found by running:
 $ warp-cli --help
 ```
 
-## Feedback
-
 You can find logs required to debug WARP issues by running `sudo warp-diag`. This will place a `warp-debugging-info.zip` file in the path from which you ran the command.
 
 To report bugs or provide feedback to the team use the command `sudo warp-diag feedback`. This will submit a support ticket.
